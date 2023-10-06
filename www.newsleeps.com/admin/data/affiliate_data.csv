@@ -1,0 +1,32 @@
+#id,hotel_chain,new_openings_url,script_id,last_verified_date,affiliate_url,login,pwd
+6,BEST WESTERN,http://www.bestwestern.com/findhotel/new_hotels.asp?language=en_US,NULL,2011-05-22,NULL,NULL,NULL
+9,BREAKWATER,http://www.breakwatersouthbeach.com/sister-properties.htm,NULL,2011-06-01,NULL,NULL,NULL
+2,CANDLEWOOD SUITES,http://www.ichotelsgroup.com/h/d/cw/1/en/c/2/content/dec/cw/1/en/locations.html,function2,2008-07-01,NULL,NULL,NULL
+17,CARLSON,http://www.radisson.com/newopenings,NULL,2011-06-15,NULL,NULL,NULL
+15,CHOICE,http://www.choicehotels.com/ires/en-US/html/NewHotelOpenings,NULL,2011-06-15,NULL,NULL,NULL
+20,CIPRIANI,,NULL,2011-06-15,NULL,NULL,NULL
+30,COBBLESTONE,www.cobblestone.com,NULL,2012-12-07,NULL,NULL,NULL
+23,COMFORTINN,,NULL,2011-07-31,NULL,NULL,NULL
+21,DISNEY,,NULL,2011-07-10,NULL,NULL,NULL
+8,FOURSEASONS,http://www.fourseasons.com/new_hotels_and_resorts/,NULL,2011-06-01,NULL,NULL,NULL
+22,GRANDSTAY,,NULL,2011-07-10,NULL,NULL,NULL
+5,HILTON,"http://doubletree.hilton.com/en/dt/promotions/dt_new_hotels/index.jhtml?cid=OM,DT,Newhotels,Offer&it=Offer,Newhotels",manual,2011-05-08,doubletree.hilton.com,NULL,NULL
+1,HOLIDAY INN EXPRESS,http://www.ichotelsgroup.com/h/d/ex/1/en/c/2/content/dec/teaser/ex/1/en/lp/newhotels.html?WT.teaser.click=/dec/teaser/ex/1/en/fo/neholi,function1,2008-07-01,NULL,NULL,NULL
+10,HYATT,http://www.hyatt.com/hyatt/about/news_announcements.jsp,NULL,2011-06-01,NULL,NULL,NULL
+16,IHG,http://www.ichotelsgroup.com/,NULL,2011-06-15,NULL,NULL,NULL
+14,IMPULSIVEGROUP,http://www.impulsivegroup.com/,NULL,2011-06-01,NULL,NULL,NULL
+11,LAQUINTA,http://www.lq.com/lq/about/ourhotels/newopenings/index.jsp?nav=find,NULL,2011-06-01,NULL,NULL,NULL
+12,LOWES,http://www.loewshotels.com/en/destinations,NULL,2011-06-01,NULL,NULL,NULL
+3,MARIOTT,http://www.marriott.com/hotel-search/new-hotel-hotels/,function3,2010-12-12,NULL,NULL,NULL
+28,MARRIOTT,http://www.marriott.com/hotel-search/new-hotel-hotels/,function3,2010-12-12,NULL,NULL,NULL
+13,MICROTEL,http://www.microtelinn.com/MicrotelInn/control/new_locations?variant=,NULL,2011-06-01,NULL,NULL,NULL
+25,MOTEL6,,NULL,2011-08-28,NULL,NULL,NULL
+19,OMNI,,NULL,2011-06-15,NULL,NULL,NULL
+18,OTHER,,NULL,2011-06-15,NULL,NULL,NULL
+31,RED LION,http://redlion.rdln.com/,NULL,2013-01-06,NULL,NULL,NULL
+26,RED ROOF,,NULL,2011-08-28,NULL,NULL,NULL
+27,SHERATON,,NULL,2011-08-28,NULL,NULL,NULL
+29,SONESTA,,NULL,2012-09-01,NULL,NULL,NULL
+4,STARWOOD,www.starwood.com,starwood.php,2010-12-24,NULL,NULL,NULL
+24,TRUMP,,NULL,2011-07-31,NULL,NULL,NULL
+7,WYNDHAM,http://www.wyndham.com/locator/main.wnt,NULL,2011-06-01,NULL,NULL,NULL

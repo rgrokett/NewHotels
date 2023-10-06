@@ -1,0 +1,321 @@
+body.error_page
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #F8F8F8;
+}
+
+div.grid_error_message
+{
+    width: auto;
+    height: auto;
+    border-style: solid;
+    border-color: #FF0000;
+    border-width: 1px;
+    padding: 5px;
+    background-color: #FFBBBB;
+    text-align: left;
+}
+
+td.grid_error_row
+{
+    padding: 5px !important;
+}
+
+div.error_box
+{
+    width: 60%;
+    height: auto;
+    border-style: solid;
+    border-color: #FF0000;
+    border-width: 1px;
+    padding-top: 20px;
+    background-color: #FFBBBB;
+}
+
+div.detail_preview_head
+{
+    font-size: 14px;
+    padding-bottom: 4px;
+}
+
+div.detail_preview_head .detail_page_caption
+{
+    font-weight: bold;
+}
+
+table.grid tr th
+{
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+div.auth_bar
+{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+div.auth_bar #loggen_in_as_text
+{
+    color: #FF7D00;
+    font-weight: bold;
+}
+div.auth_bar #user_name
+{
+    color: #3E87C5;
+    font-weight: bold;
+}
+
+
+div.page_list #current_page
+{
+    font-size: 11px;
+    color: #3E87C5;
+    font-weight: bold;
+}
+div.page_list h3
+{
+    font-weight: bold;
+    font-size: 14px;
+    color: #D94B2B;
+    margin-bottom: 5px;
+}
+div.page_list ul
+{
+    list-style-image: url(images/menu_arrow.gif);
+    padding-left: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+div.page_list li a, div.page_list li a:visited
+{
+    color: #888888;
+    text-decoration: none;
+}
+div.page_list li a:hover
+{
+    color: #FF8888;
+    text-decoration: underline;
+}
+
+
+.errorMessages
+{
+    text-align: left;
+    padding: 10px;
+    color: #FF6666;
+}
+
+.errorMessagesHead
+{
+    text-align: left;
+    padding: 3px;
+    font-size: 16px;
+}
+
+.active
+{
+    font-weight: bold;
+}
+
+div.site_header_pad
+{   
+    height: 1px;
+}
+
+.error_box h3
+{
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+
+.error_box div.error_details
+{
+    background-color: #FFDDDD;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: left;
+    border: solid 1px #888888;
+    font-family: Courier New;
+    font-size: 9pt;
+}
+
+.error_box div.error_sugg
+{
+    text-align: left;
+    padding: 10px;
+}
+
+div.login_error_box
+{
+    text-align: left; 
+    background-color: #FFAAAA; 
+    border-color: #FF8888; 
+    border-style: solid; 
+    border-width: 1px; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    padding-left: 3px;
+}
+
+.highlight { background-color: yellow; }
+
+div.qtip-wrapper 
+{
+    z-index: 999;
+    text-align: justify;
+    position: absolute;
+    font-size: .9em;
+    width: 350px;
+    background: transparent url(images/hint_arrow.png) no-repeat scroll center bottom;
+    color: #000;
+    padding-bottom: 5px;
+    display: none
+}
+
+div.qtip-wrapper div 
+{
+    border: 1px solid #000;
+    background: #FFFFE1 none;
+    padding: 5px;
+    font: normal normal .9em/1em "Arial", verdana, sans-serif;
+}
+
+div.qtip-wrapper-asearch
+{
+    z-index: 999;
+    text-align: justify;
+    position: absolute;
+    font-size: .9em;
+    width: auto;
+    background: transparent url(images/hint_arrow.png) no-repeat scroll center bottom;
+    color: #000;
+    padding-bottom: 5px;
+    display: none
+}
+
+div.qtip-wrapper-asearch div
+{
+    border: 1px solid #000;
+    background: #FFFFE1 none;
+    padding: 5px;
+    font: normal normal .9em/1em "Tahoma", verdana, sans-serif;
+}
+
+table.advanced_search_hint
+{
+    border-collapse: collapse;
+    margin-left: 10px;
+}
+
+table.advanced_search_hint td
+{
+    font-size: 8pt;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+div.box
+{
+    position: absolute; 
+    background: #ccc none; 
+    text-align: center; 
+    color: #333;
+    cursor: pointer;
+}
+
+div.box_hidden
+{
+    display: none;
+}
+
+a.hide_right_panel
+{
+    font-size: 8pt;
+    font-family: Tahoma;
+}
+
+.top_panel
+{
+    padding: 5px;
+}
+
+div.page_list
+{
+    font-family: Verdana;
+    font-size: 12px;
+    margin-left: 20px;
+    margin-right: 20px;
+    white-space: nowrap;
+}
+
+div.page_navigator #current_page
+{
+    padding: 2px;
+    
+}
+
+div.page_navigator a.page_link
+{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+table.adv_filter tr.adv_filter_row td.adv_filter_not_cell
+{
+    text-align: center;
+}
+
+.grid .grid_menu_link,
+.grid .grid_menu_pseudo_link
+{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.under_grid_menu
+{
+    width: auto;
+    padding-bottom: 4px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+a#highligth_all_link
+{
+    padding: 2px;
+}
+
+a#highligth_all_link.pressed 
+{
+    border: 1px solid #aaa;
+    background-color: #E2E2E2;
+    text-decoration: none;
+}
+
+.under_grid_link
+{
+    font-size: 8pt;
+}
+
+
+.site_header
+{
+  color: white;
+}
+
+.login_control_additional_links_row
+{
+    border-top: 1px solid #aaa;
+}
+
+.grid
+{
+    width: 100%;
+}

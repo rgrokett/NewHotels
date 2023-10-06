@@ -1,0 +1,7 @@
+To: admin@newhotels.com
+Subject: New Hotel
+
+Website:     [WEBURL]
+Hotel:       [HOTELNAME]
+Location:    [HOTELLOC]
+COMMENTS:    [COMMENTS]

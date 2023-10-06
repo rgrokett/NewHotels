@@ -1,0 +1,1 @@
+<input type="checkbox" name="{$CheckBox->GetName()}" id="{$CheckBox->GetName()}" value="on" {if $CheckBox->Checked()} checked="checked"{/if}>
