@@ -3,7 +3,7 @@
 ?>
 
 <script type="text/javascript"
-    src="https://maps.google.com/maps/api/js?key=AIzaSyCD2OBUpOgEwQ8GXwpaKvQN_kyFfQWebzM&libraries=geometry,places">
+    src="https://maps.google.com/maps/api/js?key=YourGoogleMAPkey&libraries=geometry,places">
 </script>
 
 <script type="text/javascript">
